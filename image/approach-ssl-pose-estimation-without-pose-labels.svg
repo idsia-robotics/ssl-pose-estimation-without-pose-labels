@@ -6,7 +6,7 @@
 }
 @media (prefers-color-scheme: dark) {
     #bgrect{
-        fill: #FFFFFF88;
+        fill: #FFFFFFCC;
     }
 }
 </style>
