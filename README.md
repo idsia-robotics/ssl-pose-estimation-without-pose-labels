@@ -10,8 +10,7 @@ Todo
 
 <img src="https://github.com/idsia-robotics/ssl-pose-estimation-without-pose-labels/blob/main/image/approach-ssl-pose-estimation-without-pose-labels.svg" width="900" alt="Self-supervised pose estimation without pose labels approach" />
 
-Figure 1: *Overview of our approach: (a) given an image, our approach predicts the robot's location in the image and its relative bearing. (b) Using multiple
-rescaled versions of the input image, our approach predicts the distance of the robot.*
+Figure 1: *Overview of the approach: (a) given an input image, our approach predicts the robot's location in the image and its bearing relative to the camera. (b) We apply this mechanism over multiple rescaled versions of the input image to infer the robot's distance.*
 
 <br>
 
