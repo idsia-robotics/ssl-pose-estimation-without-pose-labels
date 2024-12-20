@@ -2,7 +2,7 @@
 
 *Nicholas Carlotti, Mirko Nava, and Alessandro Giusti*
 
-Dalle Molle Institute for Artificial Intelligence (IDSIA), USI-SUPSI, Lugano (Switzerland)
+Dalle Molle Institute for Artificial Intelligence (IDSIA), USI-SUPSI, Lugano, Switzerland
 
 ### Abstract
 
